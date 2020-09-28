@@ -1,0 +1,4 @@
+ En la respuesta de la pregunta 1 dice:
+ = (... -18, ...)
+ Debe decir:
+ = (... -3, ...)
